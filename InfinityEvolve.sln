@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InfinityEvolve", "InfinityEvolve\InfinityEvolve\InfinityEvolve.csproj", "{825311BF-C451-4469-B63B-A3BD43F6BA21}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "InfinityEvolveContent", "InfinityEvolve\InfinityEvolveContent\InfinityEvolveContent.contentproj", "{60CF13D6-D5CD-47CD-B07A-17EB13E9C49A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{825311BF-C451-4469-B63B-A3BD43F6BA21}.Debug|x86.ActiveCfg = Debug|x86
+		{825311BF-C451-4469-B63B-A3BD43F6BA21}.Debug|x86.Build.0 = Debug|x86
+		{825311BF-C451-4469-B63B-A3BD43F6BA21}.Release|x86.ActiveCfg = Release|x86
+		{825311BF-C451-4469-B63B-A3BD43F6BA21}.Release|x86.Build.0 = Release|x86
+		{60CF13D6-D5CD-47CD-B07A-17EB13E9C49A}.Debug|x86.ActiveCfg = Debug|x86
+		{60CF13D6-D5CD-47CD-B07A-17EB13E9C49A}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
